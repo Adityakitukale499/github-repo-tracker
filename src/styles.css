@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-boxs;
+}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background: #bbd2c5;
+  background: -webkit-linear-gradient(to bottom, #536976, #bbd2c5);
+  background: linear-gradient(to bottom, #536976, #bbd2c5);
+  min-height: 100vh;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
